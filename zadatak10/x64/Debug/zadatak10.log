@@ -1,0 +1,3 @@
+﻿  zad10.c
+c:\users\bruna\desktop\faks\strukture podataka\zadatak10\zadatak10\zad10.c(56): warning C4013: 'strlen' undefined; assuming extern returning int
+  zadatak10.vcxproj -> C:\Users\Bruna\Desktop\Faks\strukture podataka\zadatak10\x64\Debug\zadatak10.exe

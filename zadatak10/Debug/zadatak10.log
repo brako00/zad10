@@ -1,0 +1,6 @@
+﻿  zad10.c
+c:\users\bruna\desktop\faks\strukture podataka\zadatak10\zadatak10\zad10.c(54): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\bruna\desktop\faks\strukture podataka\zadatak10\zadatak10\zad10.c(121): warning C4133: 'function': incompatible types - from 'red *' to 'poz'
+c:\users\bruna\desktop\faks\strukture podataka\zadatak10\zadatak10\zad10.c(121): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'pozicija'
+c:\users\bruna\desktop\faks\strukture podataka\zadatak10\zadatak10\zad10.c(173): warning C4047: 'return': 'char' differs in levels of indirection from 'position'
+  zadatak10.vcxproj -> C:\Users\Bruna\Desktop\Faks\strukture podataka\zadatak10\Debug\zadatak10.exe
